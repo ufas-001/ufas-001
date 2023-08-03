@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Hafeez Abdulmutolib</h1>
 <h3 align="center">A passionate DevOps Engineer from Africa</h3>
 <h4 align="center" style="font-family: monospace">alias: Hufaaz</h5>
