@@ -12,5 +12,7 @@
 
 - 📫 How to reach me **hafeezkayodeabdulmutolib@gmail.com**
 
+- 🫂 Explore my profile on **https://hufaaz-portfolio.netlify.app**
+
 - ⚡ Fun fact **I like using the screen 💻**
 
